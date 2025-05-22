@@ -869,7 +869,7 @@ MonoBehaviour:
   - {fileID: 3018085383991507932, guid: 3ebc8c4d3f8d7af428e4da44762efea6, type: 3}
   - {fileID: 3660322656027445907, guid: 86cf585a51cf7074fa3930551e5f6988, type: 3}
   Txt: {fileID: 1289351548}
-  speed: 2
+  speed: 0.5
 --- !u!1 &1580130600
 GameObject:
   m_ObjectHideFlags: 0
